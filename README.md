@@ -1,0 +1,2 @@
+# smgtest
+test
